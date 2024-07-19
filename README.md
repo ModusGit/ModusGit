@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+
+![Malcolm in the Middle GIF](https://media.giphy.com/media/AAZWN2T2rmMFxqIfzw/giphy.gif)
+
 <!--
 **ModusGit/ModusGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
 
 ## Languages and tools :
 
+<div align="center">
 <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp; &nbsp; <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp; &nbsp; <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp; &nbsp; <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp; &nbsp; <img width='65px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> &nbsp; &nbsp; <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp; &nbsp; <img width='50px' src="https://static-00.iconduck.com/assets.00/symfony-icon-512x512-chy9bgu3.png" /> &nbsp; &nbsp; <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp; &nbsp; <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" /> &nbsp; &nbsp; <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-
+<br>
+<br>
+<br>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modusGit&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
